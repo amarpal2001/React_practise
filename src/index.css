@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    text-align: center;
+    padding:300px;
+    background-image: linear-gradient(to left, red,orange,yellow,green);  
+    
+}
+.inside{
+    color:red;
+}
+.size{
+    font-size: 15px;
+    width: 30px;
+    font-weight: 600;
+    color:green;
+
+}
+.size1{
+    font-size: 15px;
+    font-weight: 600;
+    width: 30px;
+    color:green;
+}
+.size2{
+    font-size: 15px;
+    font-weight: 600;
+    width: 30px;
+    text-align: center;
+    color: red;
+}
+.greet{
+    text-align: center;
+}

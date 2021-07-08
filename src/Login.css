@@ -1,0 +1,48 @@
+.login{
+    text-align: center;
+    padding-top: 30px;
+
+}
+.main{
+    background-color: cyan;
+    position:absolute;
+    left: 35%;
+    top: 20%;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    font-size: 18px;
+}
+.btn{
+    background-color:chocolate;
+    border-radius: 20px;
+}
+.btn:hover{
+    /* opacity: .5; */
+    background-color:rgb(204, 176, 66);
+}
+.first{
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+}
+.first1{
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+}
+.back{
+    text-decoration: none;
+    color: black;
+}
+.Hello{
+    border-radius: 20px;
+    background-color: darkgrey;
+    width: 80px;
+    position:relative;
+    left: 10px;
+}
+.Hello:hover{
+    background-color: rgb(207, 228, 228);
+}

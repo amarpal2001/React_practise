@@ -1,0 +1,52 @@
+.sign-btn{
+    margin-top: 15px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.login-btn{
+    margin-top: 70px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.login-btn:hover{
+    background-color: rgb(145, 113, 175);
+}
+.sign-btn:hover{
+    background-color:rgb(145, 113, 175);
+}
+.btn1{
+    background-color: rgb(219, 136, 136);
+    height:250px;
+    width: 400px;
+    text-align: center;
+    position: relative;
+    left: 480px;
+    top: 200px;
+    border-radius: 20px;
+    border-color: 5px solid red;
+}
+.sign{
+    text-decoration: none;
+    color:black;
+}
+.btn5{
+    border-radius: 10px;
+}
+.btn5:hover{
+    background-color: rgb(135, 204, 204);
+}
+.log{
+    text-decoration: none;
+    color:black;
+}
+.btn7{
+    border-radius: 10px;
+    width: 70px;
+    margin-top: 80px;
+
+}
+.btn7:hover{
+    background-color: rgb(170, 214, 216);
+}
